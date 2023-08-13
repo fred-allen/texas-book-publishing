@@ -1,0 +1,777 @@
+
+
+.banner {
+  background-image: url(/images/bannerimages/homebanner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: "Montserrat";
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-top: 100px;
+  text-align: left;
+}
+.aboutbanner {
+  background-image: url(/images/bannerimages/aboutbanner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.ghostwriting {
+  background-image: url(/images/bannerimages/ghost.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.pricing {
+  background-color: #141d29;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  font-family: "Montserrat";
+}
+.bookpublishingservices {
+  background-image: url(/images/bannerimages/bookpublishingservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+
+.bookwritingservices {
+  background-image: url(/images/bannerimages/bookwritingservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.articlewritingservices {
+  background-image: url(/images/bannerimages/articleswriting.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+
+.bookpromotionservices {
+  background-image: url(/images/bannerimages/bookpromotionservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.bookeditingservices {
+  background-image: url(/images/bannerimages/editing.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+
+.bookmarketingservices {
+  background-image: url(/images/bannerimages/bookmarketingservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.ghost {
+  background-image: url(/images/bannerimages/ghostbann.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 70px;
+  font-family: "Montserrat";
+}
+.audiobookproduction {
+  background-image: url(/images/bannerimages/audiobook.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  background-position: center;
+
+  padding-bottom: 70px;
+  font-family: "Montserrat";
+}
+.illustrationbook {
+  background-image: url(/images/bannerimages/banner.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 135px;
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 70px;
+  background-position: 0% 75%;
+  font-family: "Montserrat";
+}
+.ebook {
+  background-image: url(/images/bannerimages/ebook.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+
+.offeringyoubook {
+  background-image: url(/images/bannerimages/offeringyoubook.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.blogwritingservices {
+  background-image: url(/images/bannerimages/blogwritingservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.bookcoverdesignservices {
+  background-image: url(/images/bannerimages/bookcoverdesignservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.buildexcitement {
+  background-image: url(/images/bannerimages/buildexcitement.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.topratedbusiness {
+  background-image: url(/images/bannerimages/topratedbusiness.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.childrenbookpublication {
+  background-image: url(/images/bannerimages/childrenbookpublication.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.authormarketingpromotionservices {
+  background-image: url(/images/bannerimages/authormarketingpromotionservices.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: right;
+  font-family: "Montserrat";
+}
+.childrenbookIllustrations {
+  background-image: url(/images/bannerimages/childrenbookIllustrations.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: right;
+  font-family: "Montserrat";
+}
+.digitalmarketingservices {
+  background-image: url(/images/bannerimages/digitalmarketingservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: right;
+  font-family: "Montserrat";
+}
+.bookformattingservices {
+  background-image: url(/images/bannerimages/formatting.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.audiobookrecordingservices {
+  background-image: url(/images/bannerimages/audiobookrecordingservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.webcontentwritingservices {
+  background-image: url(/images/bannerimages/webcontentwritingservices.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.empoweringauthorswith {
+  background-image: url(/images/bannerimages/authorwebsite.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.bookvideotrailer {
+  background-image: url(/images/bannerimages/bookvideotrailer.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+}
+.condition {
+  background-color: #141d29;
+  padding-top: 130px;
+  padding-bottom: 30px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-position: center;
+  font-family: "Montserrat";
+}
+
+.press {
+  padding-top: 140px;
+  padding-bottom: 70px;
+}
+
+.blogsbanner {
+  padding-top: 200px;
+  padding-bottom: 150px;
+  background-color: #141d29;
+  font-family: "Montserrat";
+  /* height: 100vh; */
+  display: flex;
+  align-items: center;
+}
+
+.homenumer:hover {
+  background-color: #223235;
+  border: 1px solid #223235;
+}
+
+.alignclass {
+  width: 69%;
+  margin: 0 auto;
+}
+
+.align {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.release {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.release p {
+  font-weight: 900;
+  font-size: 20px;
+  text-transform: capitalize;
+  margin: 0 auto !important;
+  font-family: "Montserrat";
+  width: 100%;
+}
+.blogbanclass {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.faqs {
+  background-color: #141d29;
+  padding-top: 140px;
+  padding-bottom: 70px;
+  background-position: center;
+  font-family: "Montserrat";
+  height: 100vh;
+}
+
+.discuss {
+  font-size: 15px;
+  font-weight: 500;
+  padding: 12px 18px;
+  border: 2px solid #049ea5;
+  color: #fff;
+  text-decoration: unset;
+  font-family: "Montserrat";
+  border-radius: 50px;
+}
+.discuss:hover {
+  color: #f1f1f1;
+}
+
+.homenumer:hover {
+  color: white;
+}
+.homenumer {
+  border: 0;
+  padding: 12px 20px;
+  border-radius: 50px;
+  background-color: #049ea5;
+  color: #fff;
+  text-decoration: unset;
+  margin-left: 10px;
+  border: 1px solid #049ea5;
+  font-family: "Montserrat";
+}
+
+.homebannerlogo {
+  margin-top: 40px;
+}
+.homebannerlogo img {
+  filter: brightness(100) invert(1);
+}
+
+.bgVideo1 {
+  width: 100%;
+}
+.crossclose {
+  position: absolute;
+  top: 7px;
+  right: 10px;
+  background-color: #222222;
+  color: white;
+  width: 31px;
+  height: 31px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  border-radius: 3px;
+  font-weight: 700;
+  font-family: "Montserrat";
+  cursor: pointer;
+  z-index: 9;
+}
+
+.thankyoubtn {
+  border: 0;
+  padding: 12px 30px;
+  border-radius: 50px;
+  background-color: #049ea5;
+  color: #fff;
+  text-decoration: none;
+  font-family: "Montserrat";
+}
+.thankyoubtn:hover {
+  background-color: #223235;
+  color: #f1f1f1;
+}
+.free{
+  color: #fff;
+  font-weight: 300;
+  border-radius: 10px;
+  text-align: center;
+  text-align: center;
+  padding: 8px 30px;
+  margin: 20px 0 0;
+  border: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  background: #FD9802;
+  width: 100%;
+  font-family: "Montserrat";
+  text-decoration: none;
+}
+.free:hover{
+  color: #fff;
+}
+
+@media (min-width: 1440px) {
+  .otherBanner {
+    margin-top: 100px;
+  }
+}
+
+@media (max-width: 1200px) {
+
+
+  
+  .new1 {
+    margin: 25px auto;
+    margin-left: 1%;
+    
+}
+}
+
+@media (max-width: 991px) {
+
+
+  .ghost {
+   
+    align-items: center;
+  }
+  .audiobookproduction {
+  
+    align-items: center;
+  }
+  .illustrationbook {
+   
+    align-items: center;
+  }
+
+
+  .logonew {
+    filter: unset;
+  }
+
+  .banner {
+    background-image: url(/images/bannerimages/hometabbanner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: "Montserrat";
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding-top: 80px;
+  }
+
+  .blogsbanner {
+    padding-top: 70px;
+  }
+
+  .pricing {
+    padding-top: 70px;
+  }
+
+  .bookwritingservices {
+    padding-top: 70px;
+  }
+  .bookpromotionservices {
+    padding-top: 70px;
+  }
+  .bookeditingservices {
+    padding-top: 70px;
+  }
+  .bookmarketingservices {
+    padding-top: 70px;
+  }
+  .offeringyoubook {
+    padding-top: 70px;
+  }
+  .blogwritingservices {
+    padding-top: 70px;
+  }
+  .bookcoverdesignservices {
+    padding-top: 70px;
+  }
+  .buildexcitement {
+    padding-top: 70px;
+  }
+  .topratedbusiness {
+    padding-top: 70px;
+  }
+  .childrenbookpublication {
+    padding-top: 70px;
+  }
+  .authormarketingpromotionservices {
+    padding-top: 70px;
+  }
+  .childrenbookIllustrations {
+    padding-top: 70px;
+  }
+  .digitalmarketingservices {
+    padding-top: 70px;
+  }
+  .bookformattingservices {
+    padding-top: 70px;
+  }
+  .audiobookrecordingservices {
+    padding-top: 70px;
+  }
+  .webcontentwritingservices {
+    padding-top: 70px;
+  }
+  .empoweringauthorswith {
+    padding-top: 70px;
+  }
+
+  .bookpublishingservices {
+    padding-top: 70px;
+  }
+
+  .faqs {
+    padding-top: 70px;
+  }
+
+  .aboutbanner {
+    padding-top: 70px;
+  }
+
+  .banner {
+    padding-top: 70px;
+  }
+
+  .newPara {
+    max-width: 100%;
+  }
+}
+@media (max-width: 767px) {
+
+
+  .ghost {
+    background-image: unset;
+    background-color: #141d29;
+   
+  }
+ 
+  .illustrationbook {
+    background-image: unset;
+    background-color: #141d29;
+   
+  }
+
+  .discuss {
+    font-size: 12px;
+    padding: 9px 10px;
+}
+  .homenumer {
+    font-size: 12px;
+    padding: 9px 10px;
+}
+
+  .banner {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .ghostwriting {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .ebook {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .bookwritingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .bookpublishingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .pricing {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .bookpromotionservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .bookeditingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .bookmarketingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .offeringyoubook {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .blogwritingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .bookcoverdesignservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .buildexcitement {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .topratedbusiness {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .childrenbookpublication {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .authormarketingpromotionservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .childrenbookIllustrations {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .digitalmarketingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .bookformattingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .audiobookrecordingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .webcontentwritingservices {
+    background-image: unset;
+    background-color: #141d29;
+  }
+  .empoweringauthorswith {
+    background-image: unset;
+    background-color: #141d29;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .new1{
+    font-size: 12px;
+    display: block;
+    width: fit-content;
+    margin: 25px auto;
+  }
+
+  /* .discuss {
+    font-size: 12px;
+    padding: 9px 10px;
+    display: block;
+    margin-bottom: 2%;
+}
+  .homenumer {
+    font-size: 12px;
+    padding: 9px 10px;
+    display: block;
+} */
+
+ 
+  .bookpublishingservices h1 {
+    max-width: 100%;
+  }
+
+  .homebannerlogo {
+    display: none;
+  }
+  .alignclass {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .discuss {
+    font-size: 11px;
+    padding: 12px 14px;
+  }
+
+  .homenumer {
+    font-size: 11px;
+    padding: 12px 14px;
+  }
+  .homelogoimgnone {
+    display: none;
+  }
+  .formalign {
+    padding-top: 2%;
+    margin-bottom: 9%;
+  }
+}
