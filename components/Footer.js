@@ -4,7 +4,7 @@ import styles from '@/styles/Footer.module.css'
 import Link from 'next/link'
 import Image from 'next/image'
 // images 
-import footerlogo from '../public/images/logo.svg'
+import footerlogo from '../public/images/logo.png'
 import protectedlogo from '../public/images/footer/protected.png'
 import visa from '../public/images/footer/visa.png'
 import logo1 from '../public/images/footer/logo1.png'

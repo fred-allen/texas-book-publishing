@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Navbar from 'react-bootstrap/Navbar';
 import { Container, Row, Col } from 'react-bootstrap';
 import Image from 'next/image'
-import logo from '../public/images/logo.svg';
+import logo from '../public/images/logo.png';
 import { BsFillTelephoneFill } from 'react-icons/bs';
 import { IoMdArrowDropdown } from 'react-icons/io';
 import { FaLocationArrow } from 'react-icons/fa';
