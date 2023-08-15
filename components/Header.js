@@ -17,7 +17,7 @@ import headericon4 from '../public/images/headericon/4.png'
 import headericon5 from '../public/images/headericon/5.png'
 import headericon6 from '../public/images/headericon/6.png'
 import headericon7 from '../public/images/headericon/7.png'
-import headericon9 from '../public/images/headericon/9.png'
+import headericon9 from '../public/images/headericon/9.png' 
 import headericon10 from '../public/images/headericon/10.png'
 import Modal from 'react-bootstrap/Modal';
 import Getstarted from './Getstarted'
