@@ -177,7 +177,7 @@ const Digitalmarketingservices = () => {
         <meta property="og:url" content="/digital-marketing-services" />
         <meta property="og:site_name" content="Book Writing" />
         <meta property="article:modified_time" content="2023-03-31T11:58:56+00:00" />
-        <meta property="og:image" content="/complogo.png" />
+        <meta property="og:image" content="/complogo.svg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:label1" content="Est. reading time" />
         <meta name="twitter:data1" content="45 minutes" />
